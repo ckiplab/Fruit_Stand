@@ -112,8 +112,8 @@ def get_data_loaders(args, tokenizer):
 
 def train():
     parser = ArgumentParser()
-    parser.add_argument("--dataset_path", type=str, default="../data/dataset_train3386_valid423_reward.json", help="Path or url of the dataset. ")
-    parser.add_argument("--dataset_cache", type=str, default='../data/dataset_train3386_valid423_reward_cache', help="Path or url of the dataset cache")
+    parser.add_argument("--dataset_path", type=str, default="../data/seller_aspect/dataset_train3386_valid423_reward.json", help="Path or url of the dataset. ")
+    parser.add_argument("--dataset_cache", type=str, default='../data/seller_aspect/dataset_train3386_valid423_reward_cache', help="Path or url of the dataset cache")
     parser.add_argument("--model_checkpoint", type=str, default="t5-base", help="Path, url or short name of the model")
     parser.add_argument("--num_candidates", type=int, default=1, help="Number of candidates for training")
     parser.add_argument("--max_history", type=int, default=5, help="Number of previous exchanges to keep in history")
