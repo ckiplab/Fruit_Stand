@@ -25,3 +25,18 @@ Run self_play_tuned_both.py to see how they interact with each other, or you may
 Run Liar_PG_Interleaved_both.py
 
 Run self_play_tuned_both.py to see how they interact with each other, or you may use self_play_batch_both.py to see pairwisely.
+
+
+
+Please cite our paper if you find the data and code helpful, thank you!
+'''
+@inproceedings{liao-etal-2022-conversational,
+    title = "Conversational {AI} for Positive-sum Retailing under Falsehood Control",
+    author = "Liao, Yin-Hsiang  and
+      Dong, Ruo-Ping  and
+      Chang, Huan-Cheng  and
+      Ma, Wilson",
+    booktitle = "Proceedings of the 4th Workshop on NLP for Conversational AI",
+    year = "2022",
+}
+'''
