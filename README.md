@@ -37,7 +37,8 @@ to see how they interact with each other, or you may use self_play_batch_both.py
 ## 3. use program with prefix Liar_ to do deduction mechanism
 
 Run 
-```Liar_PG_Interleaved_both.py
+```
+Liar_PG_Interleaved_both.py
 
 self_play_tuned_both.py 
 ```
