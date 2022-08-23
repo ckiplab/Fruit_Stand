@@ -1,6 +1,6 @@
 # Fruit_Stand
 
-This site was built for experiments in this paper: [Conversational AI for Positive-sum Retailing under Falsehood Control](https://aclanthology.org/2022.nlp4convai-1.3/), accepted in [NLP4ConvAI](https://sites.google.com/view/4thnlp4convai).
+This site was built for experiments in this paper: [Conversational AI for Positive-sum Retailing under Falsehood Control](https://aclanthology.org/2022.nlp4convai-1.3/), accepted in [NLP4ConvAI 2022](https://sites.google.com/view/4thnlp4convai).
 
 ## 1. Fine-tune a baseline model for buyer/ seller
 Use ```train_buyer/ train_seller.py``` to build a baseline buyer/seller model.
