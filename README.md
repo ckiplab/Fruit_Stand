@@ -47,7 +47,7 @@ to see how they interact with each other, or you may use self_play_batch_both.py
 
 
 
-Please cite our paper if you find the data and code helpful, thank you!
+Please cite our [paper](https://aclanthology.org/2022.nlp4convai-1.3/) if you find the data and code helpful, thank you!
 ```
 @inproceedings{liao-etal-2022-conversational,
     title = "Conversational {AI} for Positive-sum Retailing under Falsehood Control",
