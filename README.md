@@ -19,9 +19,7 @@ python test_batch.py --models_dir "~/model_folder" --aspect_buyer --train_valid
 Note that we pick the model with lost perplexity in training epochs as our baseline model.
 
 Run 
-```
-self_play.py 
-```
+```self_play.py ```
 to see how a buyer model interact with a seller(retailer) model.
 
 ## 2. Reinforce retailing policies
